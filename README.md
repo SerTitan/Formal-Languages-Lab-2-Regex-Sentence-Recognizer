@@ -1,5 +1,5 @@
 # Formal-Languages-Lab-2-Regex-Sentence-Recognizer
 Формальные языки и грамматики: Лабораторная работа №2 - Написать программу-распознаватель предложенного языка, порождаемого регулярным выражением.
 
-<img src =/media/1страница.jpg>
-<img src =/media/2страница.jpg>
+<img src =~/media/1страница.jpg>
+<img src =~/media/2страница.jpg>
